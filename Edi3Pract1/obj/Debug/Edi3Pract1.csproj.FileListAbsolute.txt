@@ -1,0 +1,10 @@
+C:\Users\karen\OneDrive\Escritorio\Edi3Pract1\Edi3Pract1\obj\Debug\Edi3Pract1.csproj.AssemblyReference.cache
+C:\Users\karen\OneDrive\Escritorio\Edi3Pract1\Edi3Pract1\obj\Debug\Edi3Pract1.Form1.resources
+C:\Users\karen\OneDrive\Escritorio\Edi3Pract1\Edi3Pract1\obj\Debug\Edi3Pract1.Properties.Resources.resources
+C:\Users\karen\OneDrive\Escritorio\Edi3Pract1\Edi3Pract1\obj\Debug\Edi3Pract1.csproj.GenerateResource.cache
+C:\Users\karen\OneDrive\Escritorio\Edi3Pract1\Edi3Pract1\obj\Debug\Edi3Pract1.csproj.CoreCompileInputs.cache
+C:\Users\karen\OneDrive\Escritorio\Edi3Pract1\Edi3Pract1\bin\Debug\Edi3Pract1.exe.config
+C:\Users\karen\OneDrive\Escritorio\Edi3Pract1\Edi3Pract1\bin\Debug\Edi3Pract1.exe
+C:\Users\karen\OneDrive\Escritorio\Edi3Pract1\Edi3Pract1\bin\Debug\Edi3Pract1.pdb
+C:\Users\karen\OneDrive\Escritorio\Edi3Pract1\Edi3Pract1\obj\Debug\Edi3Pract1.exe
+C:\Users\karen\OneDrive\Escritorio\Edi3Pract1\Edi3Pract1\obj\Debug\Edi3Pract1.pdb
